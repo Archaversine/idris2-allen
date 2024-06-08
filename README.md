@@ -135,7 +135,7 @@ This would provide the result:
 
 ## Documentation 
 
-Documentation to be added soon.
+To view more information for library functions, you can view the documentation for this library [here](https://archaversine.github.io/idris2-allen/).
 
 ## Calculations as JSON 
 
